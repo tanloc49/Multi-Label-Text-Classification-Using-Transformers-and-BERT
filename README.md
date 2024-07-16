@@ -8,7 +8,7 @@ To run the project with different models, navigate to the respective model's dir
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/Multi-Label-Text-Classification-Using-Transformers-and-BERT.git
+    git clone https://github.com/tanloc49/Multi-Label-Text-Classification-Using-Transformers-and-BERT.git
     cd Multi-Label-Text-Classification-Using-Transformers-and-BERT
     pip install -r requirements.txt
     ```
